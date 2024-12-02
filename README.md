@@ -15,7 +15,7 @@
 [![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2FKevin_GuoweiXu%2Fstatus%2F1858338565463421244)](https://x.com/Kevin_GuoweiXu/status/1858338565463421244)
 [![License](https://img.shields.io/badge/Code%20License-Apache2.0-yellow)](https://github.com/PKU-YuanGroup/LLaVA-CoT/blob/main/LICENSE)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPKU-YuanGroup%2FLLaVA-CoT&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPKU-YuanGroup%2FLLaVA-CoT&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
-
+[![Replicate](https://replicate.com/chenxwh/llava-cot/badge)](https://replicate.com/chenxwh/llava-cot)
 </h5>
 
 <h5 align="center">本项目希望构建开源慢思考大模型，由北大-兔展AIGC联合实验室共同发起。</h5>
