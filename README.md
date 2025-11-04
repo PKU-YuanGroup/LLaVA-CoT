@@ -4,7 +4,6 @@
 
 <h2 align="center"> <a href="https://arxiv.org/abs/2411.10440">LLaVA-CoT: Let Vision Language Models Reason Step-by-Step</a></h2>
 
-<h5 align="center"><p>This project was previously named LLaVA-o1. We have renamed it to LLaVA-CoT. </h5>
 <h5 align="center"> If you like our project, please give us a star ⭐ on GitHub for the latest update.</h5>
 
 <h5 align=center>
@@ -30,7 +29,6 @@
 - **[2024/11/28]** We've released the dataset: [https://huggingface.co/datasets/Xkev/LLaVA-CoT-100k](<[dataset_generation/generate.py](https://huggingface.co/datasets/Xkev/LLaVA-CoT-100k)>)
 - **[2024/11/25]** We've released the code for dataset generation: [dataset_generation/generate.py](dataset_generation/generate.py)
 - **[2024/11/23]** We've released the Gradio App: [https://huggingface.co/spaces/Xkev/Llama-3.2V-11B-cot](https://huggingface.co/spaces/Xkev/Llama-3.2V-11B-cot)
-- **[2024/11/21]** LLaVA-o1 is renamed to LLaVA-CoT [https://arxiv.org/abs/2411.10440](https://arxiv.org/abs/2411.10440).
 - **[2024/11/20]** We've released the pretrained weights: [https://huggingface.co/Xkev/Llama-3.2V-11B-cot](https://huggingface.co/Xkev/Llama-3.2V-11B-cot)
 - **[2024/11/18]** We've released our paper: [https://arxiv.org/abs/2411.10440](https://arxiv.org/abs/2411.10440)
 - **[2024/11/18]** Welcome to **watch** 👀 this repository for the latest updates.
@@ -100,14 +98,13 @@ Remember to modify the `data_path` and `image_base_path` in `train/cot_dataset.p
 If you find this paper useful, please consider staring 🌟 this repo and citing 📑 our paper:
 
 ```
-@misc{xu2024llavacot,
-      title={LLaVA-CoT: Let Vision Language Models Reason Step-by-Step},
-      author={Guowei Xu and Peng Jin and Hao Li and Yibing Song and Lichao Sun and Li Yuan},
-      year={2024},
-      eprint={2411.10440},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2411.10440},
+@InProceedings{Xu_2025_ICCV,
+    author    = {Xu, Guowei and Jin, Peng and Wu, Ziang and Li, Hao and Song, Yibing and Sun, Lichao and Yuan, Li},
+    title     = {LLaVA-CoT: Let Vision Language Models Reason Step-by-Step},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+    month     = {October},
+    year      = {2025},
+    pages     = {2087-2098}
 }
 ```
 
